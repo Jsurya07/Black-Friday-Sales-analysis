@@ -1,4 +1,4 @@
-# Black-Friday-Sales-anlysis
+# Black-Friday-Sales-analysis
 
 Analyzed Black Friday Sales Data to Identify Trends, Consumer Behavior, and Key Revenue Drivers:
 
